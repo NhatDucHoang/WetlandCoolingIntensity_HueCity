@@ -1,0 +1,1 @@
+The variables include Elevation, Slope, Aspect, Land Use/Land Cover (LULC), Bareland density, Built-up density, Green space density, Distance to wetland boundary, Distance to river, Distance to lake, Distance to coastline, Distance to road, and Cooling intensity.
